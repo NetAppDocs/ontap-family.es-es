@@ -31,9 +31,9 @@ product-family:
   - title: ONTAP
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap/index.html
-    summary: Ponga en marcha y gestione el software de gestión de datos ONTAP 9 en
-      su centro de datos mediante la interfaz de línea de comandos de ONTAP y las
-      versiones más recientes de System Manager de ONTAP (ONTAP 9.7 y versiones posteriores).
+    summary: Ponga en marcha y gestione el software para la gestión de datos de ONTAP
+      9 en su centro de datos mediante el administrador del sistema de ONTAP y la
+      interfaz de línea de comandos de ONTAP.
     tags: all, tag_data_management, tag_data_protection
   - title: Automatización de ONTAP
     icon: "./media/icon-api.png"
@@ -53,12 +53,11 @@ product-family:
     summary: Proteger su almacenamiento mediante clustering basado en cabinas con
       replicación síncrona para ofrecer una disponibilidad continua.
     tags: all, tag_data_protection
-  - title: AFF A-Series y C-Series, FAS, cabina All SAN y switches
+  - title: AFF A-Series y C-Series, FAS, cabina SAN all-flash y switches
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
-    summary: Use la página de documentación de AFF y FAS para encontrar información
-      sobre cómo instalar, mantener y actualizar sus sistemas AFF y FAS, así como
-      switches de almacenamiento y clúster.
+    summary: Descubra cómo instalar, mantener y actualizar sus sistemas de cabinas
+      AFF, FAS y SAN All-Flash, así como switches de almacenamiento y clúster.
     tags: all, tag_systems
   - title: Informes técnicos de ONTAP
     icon: "./media/icon-onprem.png"
