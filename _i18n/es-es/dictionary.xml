@@ -18,7 +18,6 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">Instale una instancia virtual de ONTAP para lograr que el almacenamiento en cloud sea más asequible, inteligente, conforme a las normativas y seguro.</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">Obtenga información sobre los eventos del sistema de mensajería de eventos (EMS) en ONTAP.</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">Configure los hosts SAN ONTAP para los protocolos NVMe, iSCSI y FC.</block>
-  <block id="2e641d75d103df9a37ad7a7a9d2e632e" category="sidebar">System Manager clásico de ONTAP</block>
   <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">ONTAP 9.7 y versiones anteriores utilizan una distribución diferente para la interfaz de ONTAP System Manager.</block>
   <block id="99be5fa77d38c7d9e875422bad8e7925" category="sidebar">Transición de 7-Mode de ONTAP</block>
   <block id="21cbfb811e4dbccffe41f111d35806c8" category="sidebar">Realice la transición de los datos de 7-Mode anteriores a las plataformas de almacenamiento en clúster modernas.</block>
@@ -36,4 +35,5 @@
   <block id="00b58e662b325b5088592ef47840159f" category="sidebar">Ponga en marcha y gestione el software para la gestión de datos de ONTAP 9 en su centro de datos mediante el administrador del sistema de ONTAP y la interfaz de línea de comandos de ONTAP.</block>
   <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF A-Series y C-Series, FAS, cabina SAN all-flash y switches</block>
   <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">Descubra cómo instalar, mantener y actualizar sus sistemas de cabinas AFF, FAS y SAN All-Flash, así como switches de almacenamiento y clúster.</block>
+  <block id="e0ef07c311c3d529bf1db8e5c324d936" category="sidebar">Administrador del sistema ONTAP (ONTAP 9,7 y anterior)</block>
 </blocks>
