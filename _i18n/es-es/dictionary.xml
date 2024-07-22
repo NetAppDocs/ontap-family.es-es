@@ -24,7 +24,6 @@
   <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">Importación de LUN externa de ONTAP</block>
   <block id="34f1e4137ff927efa23d8e07e433f9eb" category="sidebar">Migre las LUN de cabinas de terceros y sistemas de 7-Mode al almacenamiento moderno de NetApp.</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
-  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">Ponga en marcha ONTAP como dispositivo de almacenamiento definido por software en una variedad de servidores de hardware de consumo que ejecutan el hipervisor ESXi de VMware.</block>
   <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
   <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">Utilice LUN de cabina para presentar cabinas de E-Series y de terceros como almacenamiento servido por ONTAP.</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">Automatización de ONTAP</block>
@@ -36,4 +35,5 @@
   <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF A-Series y C-Series, FAS, cabina SAN all-flash y switches</block>
   <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">Descubra cómo instalar, mantener y actualizar sus sistemas de cabinas AFF, FAS y SAN All-Flash, así como switches de almacenamiento y clúster.</block>
   <block id="e0ef07c311c3d529bf1db8e5c324d936" category="sidebar">Administrador del sistema ONTAP (ONTAP 9,7 y anterior)</block>
+  <block id="e3084fa571ba538a7020720d0b9f200e" category="sidebar">Ponga en marcha ONTAP como dispositivo de almacenamiento definido por software en una variedad de servidores de hardware genérico que ejecuten los hipervisores VMware ESXi o KVM.</block>
 </blocks>
