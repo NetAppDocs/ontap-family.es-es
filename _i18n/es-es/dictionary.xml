@@ -4,7 +4,6 @@
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Todo</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">Automatización</block>
   <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">Datos de empresa</block>
-  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">Migración de datos</block>
   <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">Protección de datos</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">Automatice la puesta en marcha y administración de sus sistemas de almacenamiento de ONTAP mediante la API DE REST de ONTAP y las tecnologías compatibles.</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">Comandos de la ONTAP</block>
@@ -15,7 +14,6 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">Instale una instancia virtual de ONTAP para lograr que el almacenamiento en cloud sea más asequible, inteligente, conforme a las normativas y seguro.</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">Obtenga información sobre los eventos del sistema de mensajería de eventos (EMS) en ONTAP.</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">Configure los hosts SAN ONTAP para los protocolos NVMe, iSCSI y FC.</block>
-  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">Importación de LUN externa de ONTAP</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">Automatización de ONTAP</block>
   <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">Informes técnicos de ONTAP</block>
@@ -30,6 +28,7 @@
   <block id="fde1abb5537b55c34521d414267b3f70" category="sidebar">Sistemas ASA r2</block>
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">Instale su sistema ASA R2 y utilice ONTAP para gestionar sus datos.</block>
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">Ponga en marcha ONTAP como dispositivo de almacenamiento definido por software en una variedad de servidores de hardware de consumo que ejecutan el hipervisor ESXi de VMware.</block>
-  <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">Migre las LUN de cabinas de terceros y sistemas 7-Mode al almacenamiento NetApp moderno.</block>
   <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">ONTAP le ayuda a crear una infraestructura de almacenamiento que reduce costes, acelera las cargas de trabajo críticas y protege y protege sus datos.</block>
+  <block id="9e1c8cf536b61ced9a099cdc8d9a7ea5" category="sidebar">Sistemas AFX</block>
+  <block id="e187c97468fbf8588e709948e3975e74" category="sidebar">Instale su sistema AFX y utilice ONTAP para administrar datos.</block>
 </blocks>
