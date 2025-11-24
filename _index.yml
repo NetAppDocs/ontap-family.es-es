@@ -84,7 +84,7 @@ product-family:
   - title: ONTAP Select
     icon: "./media/server.png"
     url: "../ontap-select/index.html"
-    summary: Ponga en marcha ONTAP como dispositivo de almacenamiento definido por
-      software en una variedad de servidores de hardware de consumo que ejecutan el
-      hipervisor ESXi de VMware.
+    summary: Implemente ONTAP como un dispositivo de almacenamiento definido por software
+      en una variedad de servidores de hardware básicos que ejecutan hipervisores
+      VMware ESXi o KVM.
     tags: all, management, protection
